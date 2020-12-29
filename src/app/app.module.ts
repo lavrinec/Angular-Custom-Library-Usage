@@ -3,7 +3,7 @@ import { CUSTOM_ELEMENTS_SCHEMA, NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { ElementLibModule } from 'angular-element-test';
+import { ElementLibModule } from 'element-lib';
 
 @NgModule({
   declarations: [
